@@ -1,4 +1,4 @@
-1.Identifying columns( 3 features ):
+1. Identifying columns( 3 features ):
 
 activity 
 Activity identifier, from 1 to 6.
